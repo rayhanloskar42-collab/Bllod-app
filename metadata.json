@@ -1,0 +1,6 @@
+{
+  "name": "Blood Donor",
+  "description": "Blood donor finder, donor registration, emergency blood request, and donor directory app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
